@@ -1,5 +1,5 @@
 ---
-name: 文章链接推送
+name: 链接推送
 about: 推送优秀的文章链接, 
 title: ''
 labels: ''
