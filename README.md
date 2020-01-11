@@ -1,12 +1,12 @@
 <p align="center">
   	<a href="https://git-news.github.io"><img src="./.git-news/logo.png" alt="Git-News" width="380"></a>
 	<h3 align="center">
-   		<a href="#key-features">首页</a> •
-  		<a href="#how-to-use">文章</a> •
+   		<a href="https://github.com/Git-News-Official/git-news.github.io">首页</a> •
+  		<a href="https://github.com/Git-News-Official/git-news.github.io/issues">文章</a> •
   		<a href="#分类阅读">分类阅读</a> •  
-  		<a href="#credits">[搜索]</a> •
-		<a href="#download">[投稿]</a> •
-  		<a href="#related">帮助</a>
+  		<a href="https://github.com/Git-News-Official/git-news.github.io/issues">[搜索]</a> •
+		<a href="#">[投稿]</a> •
+  		<a href="#">帮助</a>
 	</h3>
 </p>
 
@@ -20,7 +20,7 @@
 	<blockquote>
 	<ul>
 	<li>
-		<a href="#">##Github推荐</a>&emsp;&emsp;
+		<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23Github%E6%8E%A8%E8%8D%90">##Github推荐</a>&emsp;&emsp;
 	</li>
 	</ul>
 	</blockquote>
@@ -32,44 +32,44 @@
 	<blockquote>
 	<ul>
 		<li>
-			<a href="#">##技术趋势</a>&emsp;&emsp;
-			<a href="#">##解决方案</a>&emsp;&emsp;
-			<a href="#">##最佳实践</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E6%8A%80%E6%9C%AF%E8%B6%8B%E5%8A%BF">##技术趋势</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88">##解决方案</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5">##最佳实践</a>&emsp;&emsp;
 		</li>
 		<li>
-			<a href="#">##编程语言</a>&emsp;&emsp;
-			<a href="#">##算&emsp;法&emsp;</a>&emsp;&emsp;
-			<a href="#">##架&emsp;构&emsp;</a>&emsp;&emsp;
-			<a href="#">##开发工具</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80">##编程语言</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E7%AE%97%E6%B3%95">##算&emsp;法&emsp;</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E6%9E%B6%E6%9E%84">##架&emsp;构&emsp;</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7">##开发工具</a>&emsp;&emsp;
 		</li>
 		<li>
-			<a href="#">##DevOps&ensp;</a>&emsp;&emsp;
-			<a href="#">##自动化&emsp;</a>&emsp;&emsp;
-			<a href="#">##系统运维</a>&emsp;&emsp;
-			<a href="#">##性能优化</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23DevOps">##DevOps&ensp;</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E8%87%AA%E5%8A%A8%E5%8C%96">##自动化&emsp;</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E7%B3%BB%E7%BB%9F%E8%BF%90%E7%BB%B4">##系统运维</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96">##性能优化</a>&emsp;&emsp;
 		</li>
 		<li>
-			<a href="#">##前端开发</a>&emsp;&emsp;
-			<a href="#">##后端开发</a>&emsp;&emsp;
-			<a href="#">##移动开发</a>&emsp;&emsp;
-			<a href="#">##游戏开发</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91">##前端开发</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91">##后端开发</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91">##移动开发</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91">##游戏开发</a>&emsp;&emsp;
 		</li>
 		<li>
-			<a href="#">##Unix系统</a>&emsp;&emsp;
-			<a href="#">##Win 系统</a>&emsp;&emsp;
-			<a href="#">##网络通信</a>&emsp;&emsp;
-			<a href="#">##数据库&emsp;</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23Unix%E7%B3%BB%E7%BB%9F">##Unix系统</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23Win%E7%B3%BB%E7%BB%9F">##Win 系统</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1">##网络通信</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E6%95%B0%E6%8D%AE%E5%BA%93">##数据库&emsp;</a>&emsp;&emsp;
 		</li>
 		<li>
-			<a href="#">##大数据&emsp;</a>&emsp;&emsp;
-			<a href="#">##云计算&emsp;</a>&emsp;&emsp;
-			<a href="#">##虚拟化&emsp;</a>&emsp;&emsp;
-			<a href="#">##微服务&emsp;</a>&emsp;&emsp;
-			<a href="#">##小程序&emsp;</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E5%A4%A7%E6%95%B0%E6%8D%AE">##大数据&emsp;</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E4%BA%91%E8%AE%A1%E7%AE%97">##云计算&emsp;</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E8%99%9A%E6%8B%9F%E5%8C%96">##虚拟化&emsp;</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E5%BE%AE%E6%9C%8D%E5%8A%A1">##微服务&emsp;</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E5%B0%8F%E7%A8%8B%E5%BA%8F">##小程序&emsp;</a>&emsp;&emsp;
 		</li>
 		<li>
-			<a href="#">##数据分析</a>&emsp;&emsp;
-			<a href="#">##数据挖掘</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90">##数据分析</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98">##数据挖掘</a>&emsp;&emsp;
 		</li>
 	</ul>
 	</blockquote>
@@ -81,23 +81,35 @@
 	<blockquote>
 	<ul>
 		<li>
-			<a href="#">##安全预警</a>&emsp;&emsp;
-			<a href="#">##安全分析</a>&emsp;&emsp;
-			<a href="#">##安全工具</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E5%AE%89%E5%85%A8%E9%A2%84%E8%AD%A6">##安全预警</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90">##安全分析</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7">##安全工具</a>&emsp;&emsp;
 		</li>
 		<li>
-			<a href="#">##安全开发</a>&emsp;&emsp;
-			<a href="#">##安全测试</a>&emsp;&emsp;
-			<a href="#">##安全运维</a>&emsp;&emsp;
-			<a href="#">##安全架构</a>&emsp;&emsp;
-			<a href="#">##安全合规</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E5%AE%89%E5%85%A8%E5%BC%80%E5%8F%91">##安全开发</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95">##安全测试</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E5%AE%89%E5%85%A8%E8%BF%90%E7%BB%B4">##安全运维</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84">##安全架构</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E5%AE%89%E5%85%A8%E5%90%88%E8%A7%84">##安全合规</a>&emsp;&emsp;
 		</li>
 		<li>
-			<a href="#">##Web安全</a>&emsp;&emsp;
-			<a href="#">##系统安全</a>&emsp;&emsp;
-			<a href="#">##网络安全</a>&emsp;&emsp;
-			<a href="#">##移动安全</a>&emsp;&emsp;
-			<a href="#">##二进制安全</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23Web%E5%AE%89%E5%85%A8">##Web安全</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8">##系统安全</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8">##网络安全</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E7%A7%BB%E5%8A%A8%E5%AE%89%E5%85%A8">##移动安全</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AE%89%E5%85%A8">##二进制安全</a>&emsp;&emsp;
+		</li>
+	</ul>
+	</blockquote>
+</details>
+
+
+<details open>
+	<summary><strong> #Git-News </strong></summary>
+	<blockquote>
+	<ul>
+		<li>
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23Git-News%E7%A4%BE%E5%8C%BA">##Git-News社区</a>&emsp;&emsp;
 		</li>
 	</ul>
 	</blockquote>
