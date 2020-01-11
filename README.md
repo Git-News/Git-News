@@ -1,6 +1,5 @@
 <p align="center">
-  <br>
-  <a href="https://git-news.github.io"><img src="./.git-news/logo.png" alt="Markdownify" width="200"></a>
+  <a href="https://git-news.github.io"><img src="./.git-news/logo.png" alt="Git-News" width="380"></a>
 <h3 align="center">
    <a href="#key-features">首页</a> •
   <a href="#how-to-use">文章</a> •
