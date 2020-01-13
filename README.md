@@ -5,7 +5,7 @@
   		<a href="https://github.com/Git-News-Official/git-news.github.io/issues">文章</a> •
   		<a href="#分类阅读">分类阅读</a> •  
   		<a href="https://github.com/Git-News-Official/git-news.github.io/issues">[搜索]</a> •
-		<a href="#">[投稿]</a> •
+		<a href="https://github.com/Git-News-Official/git-news.github.io/issues/new/choose">[投稿]</a> •
   		<a href="#">帮助</a>
 	</h3>
 </p>
@@ -38,8 +38,8 @@
 		</li>
 		<li>
 			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80" target="_blank">##编程语言</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E7%AE%97%E6%B3%95" target="_blank">##算&emsp;法&emsp;</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E6%9E%B6%E6%9E%84" target="_blank">##架&emsp;构&emsp;</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E7%AE%97%E6%B3%95" target="_blank">##算法研究</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E6%9E%B6%E6%9E%84" target="_blank">##架构设计</a>&emsp;&emsp;
 			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%23%23%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7" target="_blank">##开发工具</a>&emsp;&emsp;
 		</li>
 		<li>
@@ -104,7 +104,7 @@
 </details>
 
 
-<details open>
+<details>
 	<summary><strong> #Git-News </strong></summary>
 	<blockquote>
 	<ul>
@@ -114,3 +114,4 @@
 	</ul>
 	</blockquote>
 </details>
+
