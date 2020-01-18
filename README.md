@@ -1,20 +1,22 @@
-<p align="center">
-  	<a href="https://git-news.github.io"><img src="./.git-news/logo.png" alt="Git-News" width="380"></a>
-	<h3 align="center">
+<h1 align="center">
+  	<a href="https://git-news.github.io"><img src="./.git-news/logo.png" alt="Git-News" width="320"></a>
+</h1>
+<div align="center">
+		•
   		<a href="https://github.com/Git-News-Official/git-news.github.io/issues">所有文章</a> •
-  		<a href="#分类阅读">分类阅读</a> •  
+  		<a href="#分类阅读">分类阅读</a> •
+		<a href="https://github.com/Git-News-Official/git-news.github.io/issues/new/choose">贡献好文</a> •
+		<a href="https://github.com/Git-News-Official/git-news.github.io/issues/new/choose">订阅</a> •
   		<a href="https://github.com/Git-News-Official/git-news.github.io/issues">[搜索]</a> •
-		<a href="https://github.com/Git-News-Official/git-news.github.io/issues/new/choose">[贡献好文]</a> •
-	</h3>
-</p>
-
-<hr/>
+		<a href="https://github.com/Git-News-Official/git-news.github.io/issues/new/choose">帮助</a>
+		•
+</div>
 
 
 ## 分类阅读
 
 <details open>
-	<summary><strong> #Github </strong></summary>
+	<summary><strong> #Geek推荐 </strong></summary>
 	<blockquote>
 	<ul>
 	<li>
