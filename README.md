@@ -1,14 +1,14 @@
 <h1 align="center">
-  	<a href="https://git-news.github.io"><img src="./.git-news/logo.png" alt="Git-News" width="320"></a>
+  	<a href="https://git-news.github.io"><img src="./.git-news/logo.png" alt="Git-News" width="480"></a>
 </h1>
 <div align="center">
 		•
   		<a href="https://github.com/Git-News-Official/git-news.github.io/issues">所有文章</a> •
   		<a href="#分类阅读">分类阅读</a> •
 		<a href="https://github.com/Git-News-Official/git-news.github.io/issues/new/choose">贡献好文</a> •
-		<a href="https://github.com/Git-News-Official/git-news.github.io/issues/new/choose">订阅</a> •
+		<a href="#文章订阅">文章订阅</a> •
   		<a href="https://github.com/Git-News-Official/git-news.github.io/issues">[搜索]</a> •
-		<a href="https://github.com/Git-News-Official/git-news.github.io/issues/new/choose">帮助</a>
+		<a href="#帮助我们">帮助我们</a>
 		•
 </div>
 
@@ -117,6 +117,23 @@
 	</ul>
 	</blockquote>
 </details>
+
+
+## 文章订阅
+您可以通过以下方式订阅Git-News:
+
+- **(推荐)Github Watch:** Wathcing (实时更新)
+
+
+## 帮助我们
+您可以通过以下方式帮助Git-News, 让Git-News更好服务我们的读者.
+
+- 贡献您学习的好文至Git-News
+- 分享Git-News给您的朋友们
+- 为Git-News添加有益的扩展内容 (翻译/Tips/见解等)
+- 为文章打分: 👍 或 👎
+
+
 
 ## &nbsp;
 ©2020 Git-News, Inc. &emsp;&emsp;- [贡献好文]()&emsp;- [使用帮助]()&emsp;- [社区准则]()&emsp;- [违规举报]()&emsp;- [关于我们]()
