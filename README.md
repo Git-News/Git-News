@@ -1,12 +1,10 @@
 <p align="center">
   	<a href="https://git-news.github.io"><img src="./.git-news/logo.png" alt="Git-News" width="380"></a>
 	<h3 align="center">
-   		<a href="https://github.com/Git-News-Official/git-news.github.io">首页</a> •
-  		<a href="https://github.com/Git-News-Official/git-news.github.io/issues">贡献好文</a> •
+  		<a href="https://github.com/Git-News-Official/git-news.github.io/issues">所有文章</a> •
   		<a href="#分类阅读">分类阅读</a> •  
   		<a href="https://github.com/Git-News-Official/git-news.github.io/issues">[搜索]</a> •
-		<a href="https://github.com/Git-News-Official/git-news.github.io/issues/new/choose">[投稿]</a> •
-  		<a href="#">帮助</a>
+		<a href="https://github.com/Git-News-Official/git-news.github.io/issues/new/choose">[贡献好文]</a> •
 	</h3>
 </p>
 
@@ -118,5 +116,5 @@
 	</blockquote>
 </details>
 
----
+## &nbsp;
 ©2020 Git-News, Inc. &emsp;&emsp;- [贡献好文]()&emsp;- [使用帮助]()&emsp;- [社区准则]()&emsp;- [违规举报]()&emsp;- [关于我们]()
