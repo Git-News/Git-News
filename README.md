@@ -21,7 +21,7 @@
 	<ul>
 	<li>
 		<a href="https://github.com/Git-News-Official/git-news.github.io/labels/Github%E6%8E%A8%E8%8D%90" target="_blank">Github推荐</a>&emsp;
-		<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E5%BC%80%E5%8F%91%E5%88%A9%E5%99%A8" target="_blank">开发利器</a>&emsp;&emsp;
+		<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E5%BC%80%E5%8F%91%E5%88%A9%E5%99%A8" target="_blank">工具利器</a>&emsp;&emsp;
 	</li>
 	</ul>
 	</blockquote>
