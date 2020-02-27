@@ -51,7 +51,6 @@
 	<blockquote>
 	<ul>
 		<li>
-		<li>
 			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/编程语言" target="_blank">编程语言</a>&emsp;&emsp;
 			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/算法研究" target="_blank">算法研究</a>&emsp;&emsp;
 			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/软件工程" target="_blank">软件工程</a>&emsp;&emsp;
@@ -99,7 +98,7 @@
 	</blockquote>
 </details>
 
-<details>
+<details open>
 	<summary><strong> #运维 </strong></summary>
 	<blockquote>
 	<ul>
