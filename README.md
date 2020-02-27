@@ -20,7 +20,8 @@
 	<blockquote>
 	<ul>
 	<li>
-		<a href="https://github.com/Git-News-Official/git-news.github.io/labels/Github%E6%8E%A8%E8%8D%90" target="_blank">Github推荐</a>&emsp;&emsp;
+		<a href="https://github.com/Git-News-Official/git-news.github.io/labels/Github%E6%8E%A8%E8%8D%90" target="_blank">Github推荐</a>&emsp;
+		<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E5%BC%80%E5%8F%91%E5%88%A9%E5%99%A8" target="_blank">开发利器</a>&emsp;&emsp;
 	</li>
 	</ul>
 	</blockquote>
@@ -35,7 +36,6 @@
 			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E6%8A%80%E6%9C%AF%E8%B6%8B%E5%8A%BF" target="_blank">技术趋势</a>&emsp;&emsp;
 			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88" target="_blank">解决方案</a>&emsp;&emsp;
 			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5" target="_blank">最佳实践</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7" target="_blank">开发工具</a>&emsp;&emsp;
 		</li>
 		<br/>
 		<li>
