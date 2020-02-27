@@ -20,8 +20,8 @@
 	<blockquote>
 	<ul>
 	<li>
-		<a href="https://github.com/Git-News-Official/git-news.github.io/labels/Github%E6%8E%A8%E8%8D%90" target="_blank">Github推荐</a>&emsp;
-		<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E5%BC%80%E5%8F%91%E5%88%A9%E5%99%A8" target="_blank">工具利器</a>&emsp;&emsp;
+		<a href="https://github.com/Git-News-Official/git-news.github.io/labels/Github推荐" target="_blank">Github推荐</a>&emsp;
+		<a href="https://github.com/Git-News-Official/git-news.github.io/labels/工具利器" target="_blank">工具利器</a>&emsp;&emsp;
 	</li>
 	</ul>
 	</blockquote>
@@ -29,50 +29,43 @@
 
 
 <details open>
-	<summary><strong> #技术开发 </strong></summary>
+	<summary><strong> #Tech </strong></summary>
 	<blockquote>
 	<ul>
 		<li>
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E6%8A%80%E6%9C%AF%E8%B6%8B%E5%8A%BF" target="_blank">技术趋势</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88" target="_blank">解决方案</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5" target="_blank">最佳实践</a>&emsp;&emsp;
-		</li>
-		<br/>
-		<li>
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80" target="_blank">编程语言</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E7%AE%97%E6%B3%95" target="_blank">算法研究</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B" target="_blank">软件工程</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E6%9E%B6%E6%9E%84" target="_blank">架构设计</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/技术趋势" target="_blank">技术趋势</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/解决方案" target="_blank">解决方案</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/最佳实践" target="_blank">最佳实践</a>&emsp;&emsp;
 		</li>
 		<li>
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91" target="_blank">前端开发</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91" target="_blank">后端开发</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91" target="_blank">移动开发</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91" target="_blank">游戏开发</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/云计算" target="_blank">云计算</a>&emsp;&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/区块链" target="_blank">区块链</a>&emsp;&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/人工智能" target="_blank">人工智能</a>&emsp;&emsp;
+		</li>
+	</ul>
+	</blockquote>
+</details>
+
+<details open>
+	<summary><strong> #开发 </strong></summary>
+	<blockquote>
+	<ul>
+		<li>
+		<li>
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/编程语言" target="_blank">编程语言</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/算法研究" target="_blank">算法研究</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/软件工程" target="_blank">软件工程</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/架构设计" target="_blank">架构设计</a>&emsp;&emsp;
 		</li>
 		<li>
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/Unix%E7%B3%BB%E7%BB%9F" target="_blank">Unix系统</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/Win%E7%B3%BB%E7%BB%9F" target="_blank">Win 系统</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1" target="_blank">网络通信</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E6%95%B0%E6%8D%AE%E5%BA%93" target="_blank">数据库&emsp;</a>&emsp;&emsp;
-		</li>
-		<br/>		
-		<li>
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E4%BA%91%E8%AE%A1%E7%AE%97" target="_blank">云计算&emsp;</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E8%99%9A%E6%8B%9F%E5%8C%96" target="_blank">虚拟化&emsp;</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E5%BE%AE%E6%9C%8D%E5%8A%A1" target="_blank">微服务&emsp;</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F" target="_blank">小程序&emsp;</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/前端开发" target="_blank">前端开发</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/后端开发" target="_blank">后端开发</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/移动开发" target="_blank">移动开发</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/游戏开发" target="_blank">游戏开发</a>&emsp;&emsp;
 		</li>
 		<li>
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/DevOps" target="_blank">DevOps&ensp;</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E8%87%AA%E5%8A%A8%E5%8C%96" target="_blank">自动化&emsp;</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E7%B3%BB%E7%BB%9F%E8%BF%90%E7%BB%B4" target="_blank">系统运维</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96" target="_blank">性能优化</a>&emsp;&emsp;
-		</li>
-		<li>
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E5%A4%A7%E6%95%B0%E6%8D%AE" target="_blank">大数据&emsp;</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90" target="_blank">数据分析</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98" target="_blank">数据挖掘</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/小程序" target="_blank">小程序</a>&emsp;&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/大数据" target="_blank">大数据</a>&emsp;&emsp;&emsp;
 		</li>
 	</ul>
 	</blockquote>
@@ -84,35 +77,55 @@
 	<blockquote>
 	<ul>
 		<li>
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E5%AE%89%E5%85%A8%E9%A2%84%E8%AD%A6" target="_blank">安全预警</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90" target="_blank">安全分析</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7" target="_blank">安全工具</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/安全应急" target="_blank">安全应急</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/安全分析" target="_blank">安全分析</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/安全工具" target="_blank">安全工具</a>&emsp;&emsp;
 		</li>
 		<li>
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E5%AE%89%E5%85%A8%E5%BC%80%E5%8F%91" target="_blank">安全开发</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95" target="_blank">安全测试</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E5%AE%89%E5%85%A8%E8%BF%90%E7%BB%B4" target="_blank">安全运维</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84" target="_blank">安全架构</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E5%AE%89%E5%85%A8%E5%90%88%E8%A7%84" target="_blank">安全合规</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/安全开发" target="_blank">安全开发</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/安全测试" target="_blank">安全测试</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/安全运维" target="_blank">安全运维</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/安全架构" target="_blank">安全架构</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/安全合规" target="_blank">安全合规</a>&emsp;&emsp;
 		</li>
 		<li>
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/Web%E5%AE%89%E5%85%A8" target="_blank">Web安全</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8" target="_blank">系统安全</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8" target="_blank">网络安全</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E7%A7%BB%E5%8A%A8%E5%AE%89%E5%85%A8" target="_blank">移动安全</a>&emsp;&emsp;
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AE%89%E5%85%A8" target="_blank">二进制安全</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/Web安全" target="_blank">Web安全</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/系统安全" target="_blank">系统安全</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/网络安全" target="_blank">网络安全</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/移动安全" target="_blank">移动安全</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/二进制安全" target="_blank">二进制安全</a>&emsp;&emsp;
 		</li>
 	</ul>
 	</blockquote>
 </details>
 
+<details>
+	<summary><strong> #运维 </strong></summary>
+	<blockquote>
+	<ul>
+		<li>
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/Unix系统" target="_blank">Unix系统</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/Win系统" target="_blank">Win 系统</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/网络通信" target="_blank">网络通信</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/数据库" target="_blank">数据库</a>&emsp;&emsp;&emsp;
+		</li>
+		<li>
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/虚拟化" target="_blank">虚拟化</a>&emsp;&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/微服务" target="_blank">微服务</a>&emsp;&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/自动化" target="_blank">自动化&emsp;</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/运维监控" target="_blank">运维监控</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/性能优化" target="_blank">性能优化</a>&emsp;&emsp;
+		</li>
+	</ul>
+	</blockquote>
+</details>
 
 <details>
 	<summary><strong> #Git-News </strong></summary>
 	<blockquote>
 	<ul>
 		<li>
-			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/Git-News%E7%A4%BE%E5%8C%BA" target="_blank">Git-News社区</a>&emsp;&emsp;
+			<a href="https://github.com/Git-News-Official/git-news.github.io/labels/Git-News社区" target="_blank">Git-News社区</a>&emsp;&emsp;
 		</li>
 	</ul>
 	</blockquote>
