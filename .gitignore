@@ -1,2 +1,4 @@
 Probot/
 todo.md
+*.sublime-project
+*.sublime-workspace
