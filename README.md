@@ -6,7 +6,7 @@
   		<a href="https://github.com/Git-News/Git-News/issues">所有文章</a> •
   		<a href="#分类阅读">分类阅读</a> •
 		<a href="https://github.com/Git-News/Git-News/issues/new/choose">贡献好文</a> •
-		<a href="#文章订阅">文章订阅</a> •
+		<a href="#内容订阅">内容订阅</a> •
   		<a href="https://github.com/Git-News/Git-News/issues">[搜索]</a> •
 		<a href="#帮助我们">帮助我们</a>
 		•
@@ -135,14 +135,14 @@
 
 **Watch:**
 
-- [推荐]Releases only: 周期性推送新的文章
+- Releases only[推荐]: 周期性推送新的文章
 - Watching: 实时推送仓库动态内容, 包括评论内容, 消息较多
 
     > [[Notifications-Comments on Issues and Pull Requests](https://github.com/settings/notifications)], 可以关闭评论推送
 
 **Subscribe:**
 
-    对于您感兴趣的文章, 可以通过评论自动订阅, 也可以通过文章右侧的"Subscribe"来订阅更新
+对于您感兴趣的文章, 可以通过评论自动订阅, 也可以通过文章右侧的"Subscribe"来订阅更新
 
 
 ## 帮助我们

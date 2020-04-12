@@ -32,4 +32,4 @@ assignees: ''
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 **Github:** [Github@Git-News](https://github.com/Git-News)
-**Website:**: [https://git-news.io](https://git-news.io)
+**Website:** [https://git-news.io](https://git-news.io)
