@@ -149,8 +149,8 @@
 
 
 ## 版权说明
-	- [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
-	- 允许修正/注解性演绎, 禁止主体演绎
+- [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
+- 允许修正/注解性演绎, 禁止主体演绎
 
 ## &nbsp;
-©2020 Git-News, Lab. &emsp;&emsp;- [贡献好文](https://github.com/Git-News/Git-News/issues/new/choose)&emsp;- [使用帮助]()&emsp;- [社区准则]()&emsp;- [违规举报](https://github.com/Git-News/Git-News/issues/3)&emsp;- [关于我们]()&emsp;- 联系邮箱: Git-News@outlook.com
+©2020 Git-News, Lab. &emsp;&emsp;- [贡献好文](https://github.com/Git-News/Git-News/issues/new/choose)&emsp;- [使用帮助]()&emsp;- [社区准则]()&emsp;- [违规举报](https://github.com/Git-News/Git-News/issues/3)&emsp;- [关于我们]()&emsp;- [邮箱: Git-News@outlook.com](mailto:Git-News@outlook.com)
