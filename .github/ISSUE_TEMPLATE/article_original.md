@@ -1,7 +1,7 @@
 ---
 name: 原创投稿
 about: 个人原创文章投稿, 要求原创或者授权长文转载 
-title: '[原创]-文章标题'
+title: '[原创]文章标题'
 labels: ''
 assignees: ''
 
@@ -29,10 +29,8 @@ assignees: ''
 
 
 [^_^]: # (请勿修改下面的内容, 感谢🙇‍🙇‍🙇‍!)
-<!--
-  Template: article_original
-  Updated: 2020/01/10
--->
+
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-来源：[Github@Git-News](https://github.com/Git-News)
+**Github:** [Github@Git-News](https://github.com/Git-News)
+**Website:**: [https://git-news.io](https://git-news.io)
 

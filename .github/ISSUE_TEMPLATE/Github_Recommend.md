@@ -1,5 +1,5 @@
 ---
-name: Github项目推荐
+name: Github推荐
 about: 分享优秀的开源项目, 包括但不限于Github
 title: '项目名称-项目简述'
 labels: 'Github推荐'
@@ -35,10 +35,7 @@ assignees: ''
 
 
 [^_^]: # (请勿修改下面的内容, 感谢🙇‍🙇‍🙇‍!)
-<!--
-  Template: git_recommend
-  Updated: 2020/01/05
--->
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-来源：[Github@Git-News](https://github.com/Git-News)
 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+**Github:** [Github@Git-News](https://github.com/Git-News)
+**Website:**: [https://git-news.io](https://git-news.io)

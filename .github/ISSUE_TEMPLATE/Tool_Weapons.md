@@ -1,6 +1,6 @@
 ---
-name: 工具利器推荐
-about: 分享优质的工具利器, 提高效率
+name: 工具利器
+about: 分享优质的工具利器
 title: '工具名称-工具简介'
 labels: '工具利器'
 assignees: ''
@@ -33,10 +33,8 @@ assignees: ''
 
 
 [^_^]: # (请勿修改下面的内容, 感谢🙇‍🙇‍🙇‍!)
-<!--
-  Template: tool_weapons
-  Updated: 2020/02/27
--->
+
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-来源：[Github@Git-News](https://github.com/Git-News)
+**Github:** [Github@Git-News](https://github.com/Git-News)
+**Website:**: [https://git-news.io](https://git-news.io)
 

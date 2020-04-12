@@ -1,7 +1,7 @@
 ---
 name: 文章翻译
-about: 翻译优秀外文文章, 要求原创翻译或者授权转载
-title: '[翻译]-文章标题'
+about: 翻译优秀外文文章
+title: '[译]文章标题'
 labels: ''
 assignees: ''
 
@@ -23,10 +23,7 @@ assignees: ''
 
 
 [^_^]: # (请勿修改下面的内容, 感谢🙇‍🙇‍🙇‍!)
-<!--
-  Template: article_translated
-  Updated: 2020/01/08
--->
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-来源：[Github@Git-News](https://github.com/Git-News)
 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+**Github:** [Github@Git-News](https://github.com/Git-News)
+**Website:**: [https://git-news.io](https://git-news.io)
