@@ -131,10 +131,12 @@
 </details>
 
 
-## 文章订阅
+## 内容订阅
 您可以通过以下方式订阅Git-News:
 
-- **(推荐)Github Watch:** Wathcing (实时更新)
+- **Github Watch:** Wathcing (实时推送)
+
+> 对于您感兴趣的文章, 可以通过文章右侧的"Subscribe"来获取更多扩展内容的更新订阅.
 
 
 ## 帮助我们
@@ -146,6 +148,9 @@
 - 为文章打分: 👍 或 👎
 
 
+## 版权说明
+	- [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
+	- 允许修正/注解性演绎, 禁止主体演绎
 
 ## &nbsp;
-©2020 Git-News, Inc. &emsp;&emsp;- [贡献好文](https://github.com/Git-News/Git-News/issues/new/choose)&emsp;- [使用帮助]()&emsp;- [社区准则]()&emsp;- [违规举报](https://github.com/Git-News/Git-News/issues/3)&emsp;- [关于我们]()
+©2020 Git-News, Lab. &emsp;&emsp;- [贡献好文](https://github.com/Git-News/Git-News/issues/new/choose)&emsp;- [使用帮助]()&emsp;- [社区准则]()&emsp;- [违规举报](https://github.com/Git-News/Git-News/issues/3)&emsp;- [关于我们]()&emsp;- 联系邮箱: Git-News@outlook.com
