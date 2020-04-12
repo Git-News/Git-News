@@ -132,18 +132,24 @@
 
 
 ## 内容订阅
-您可以通过以下方式订阅Git-News:
 
-- **Github Watch:** Wathcing (实时推送)
+**Watch:**
 
-> 对于您感兴趣的文章, 可以通过文章右侧的"Subscribe"来获取更多扩展内容的更新订阅.
+- [推荐]Releases only: 周期性推送新的文章
+- Watching: 实时推送仓库动态内容, 包括评论内容, 消息较多
+
+> [Notifications](https://github.com/settings/notifications)-[Comments on Issues and Pull Requests]", 可以取消评论推送.
+
+**Subscribe:**
+
+对于您感兴趣的文章, 可以通过评论自动订阅, 也可以通过文章右侧的"Subscribe"来订阅更新
 
 
 ## 帮助我们
-您可以通过以下方式帮助Git-News, 让Git-News更好服务我们的读者.
+您可以通过以下方式帮助Git-News, 让Git-News更好服务我们的读者
 
 - 贡献您学习的好文至Git-News
-- 分享Git-News给您的朋友们
+- Star & 分享Git-News给您的朋友们
 - 为Git-News添加有益的扩展内容 (翻译/Tips/见解等)
 - 为文章打分: 👍 或 👎
 
@@ -151,6 +157,7 @@
 ## 版权说明
 - [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
 - 允许修正/注解性演绎, 禁止主体演绎
+- 适用于扩展内容
 
 ## &nbsp;
 ©2020 Git-News, Lab. &emsp;&emsp;- [贡献好文](https://github.com/Git-News/Git-News/issues/new/choose)&emsp;- [使用帮助]()&emsp;- [社区准则]()&emsp;- [违规举报](https://github.com/Git-News/Git-News/issues/3)&emsp;- [关于我们]()&emsp;- [邮箱: Git-News@outlook.com](mailto:Git-News@outlook.com)
